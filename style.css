@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #eaeaea;
+}
+
+.section-main {
+    background: #556b2f;
+    padding: 120px 20px;
+    text-align: center;
+    color: white;
+}
+
+.section-main-logo {
+    width: 150px;
+}
+
+.section-main-title {
+    font-size: 50px;
+}
+
+.section-main-subtitle {
+    font-size: 22px;
+}
+
+.section-main-button {
+    background: #8fbc8f;
+    padding: 12px 30px;
+    border-radius: 25px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.second-section {
+    display: flex;
+    padding: 100px;
+    gap: 30px;
+}
+
+.second-section-img {
+    width: 400px;
+    border-radius: 20px;
+}
+
+.section-subtitle {
+    color: #8fbc8f;
+    text-transform: uppercase;
+}
+
+.section-title {
+    color: #556b2f;
+}
+
+.third-section {
+    background: #f5f5f5;
+    padding: 100px 20px;
+    text-align: center;
+}
+
+.third-section-books {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.book-img {
+    height: 200px;
+}
+
+.footer {
+    background: #2f4f4f;
+    padding: 100px 20px;
+    text-align: center;
+    color: white;
+}
+
+.form-input {
+    width: 300px;
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+.footer-button {
+    background: #8fbc8f;
+    padding: 10px 25px;
+    border-radius: 25px;
+    border: none;
+    color: white;
+}
